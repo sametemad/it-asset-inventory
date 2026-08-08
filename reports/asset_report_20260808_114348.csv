@@ -1,0 +1,2 @@
+generated_at,hostname,username,operating_system,os_version,os_release,architecture,processor,cpu_cores_physical,cpu_cores_logical,cpu_usage_percent,ram_total_gb,ram_used_gb,ram_usage_percent,disk_total_gb,disk_used_gb,disk_free_gb,disk_usage_percent,ipv4_address,system_boot_time,health_status,health_alerts
+2026-08-08 11:43:48,SamEtemad,hesam,Windows,10.0.26200,11,AMD64,"AMD64 Family 23 Model 160 Stepping 0, AuthenticAMD",4,8,23.9,5.83,5.3,90.9,154.38,139.33,15.05,90.3,10.0.0.108,2026-08-03 02:40:00,CRITICAL,CRITICAL: RAM usage is 90.9% | CRITICAL: Disk usage is 90.3%
