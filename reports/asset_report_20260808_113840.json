@@ -1,0 +1,31 @@
+{
+    "generated_at": "2026-08-08 11:38:40",
+    "system": {
+        "hostname": "SamEtemad",
+        "username": "hesam",
+        "operating_system": "Windows",
+        "os_version": "10.0.26200",
+        "os_release": "11",
+        "architecture": "AMD64",
+        "processor": "AMD64 Family 23 Model 160 Stepping 0, AuthenticAMD",
+        "cpu_cores_physical": 4,
+        "cpu_cores_logical": 8,
+        "cpu_usage_percent": 64.4,
+        "ram_total_gb": 5.83,
+        "ram_used_gb": 5.47,
+        "ram_usage_percent": 93.9,
+        "disk_total_gb": 154.38,
+        "disk_used_gb": 139.33,
+        "disk_free_gb": 15.05,
+        "disk_usage_percent": 90.2,
+        "ipv4_address": "10.0.0.108",
+        "system_boot_time": "2026-08-03 02:40:00"
+    },
+    "health": {
+        "status": "CRITICAL",
+        "alerts": [
+            "CRITICAL: RAM usage is 93.9%",
+            "CRITICAL: Disk usage is 90.2%"
+        ]
+    }
+}
